@@ -1,0 +1,63 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 30vmin;
+  background-image: ('./bitcoin.png');
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 40vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #09d3ac;
+}
+
+.input {
+  padding: 20px;
+  background-color: rgba(151, 149, 149, 0.459);
+}
+
+.input-element {
+  height: 40px;
+  width: 300px;
+  border-radius: 3px;
+  border: 0;
+  text-align: center;
+}
+
+.blue {
+  color: blue;
+  font-weight: bold;
+}
+
+.red {
+  color: red;
+}
+
+.lists {
+  list-style: none;
+  font-size: 1.2em;
+  border: 1px solid #000;
+  padding: 3px;
+  width: 500px;
+  margin: 0 auto;
+  height: 3vh;
+}
+
+.ul-list {
+  text-align: center;
+}
+
+.symbol-icon {
+  font-weight: 700;
+}
